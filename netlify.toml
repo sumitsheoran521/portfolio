@@ -1,0 +1,6 @@
+[build]
+  command = ""
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "16" # You can specify "14" or "16" here
